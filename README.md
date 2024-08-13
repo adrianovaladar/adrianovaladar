@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi! I am Adriano Valadar
+![](https://komarev.com/ghpvc/?username=adrianovaladar)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+📫 How to reach me: 
+
+<a href="https://www.linkedin.com/in/adriano-valadar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <!--
 **adrianovaladar/adrianovaladar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
